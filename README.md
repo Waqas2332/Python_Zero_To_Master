@@ -13,3 +13,7 @@ Basic numbers manipulations
 ## Day # 03 &nbsp; &nbsp; 30-04-2023
 
 Done with Lists , sets , tuples and dictionaries </br>
+
+## Day # 04 &nbsp; &nbsp; 1-5-2023
+
+Done with Conditionals & Loops </br>
