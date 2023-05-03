@@ -17,3 +17,7 @@ Done with Lists , sets , tuples and dictionaries </br>
 ## Day # 04 &nbsp; &nbsp; 1-5-2023
 
 Done with Conditionals & Loops </br>
+
+## Day # 05 &nbsp; &nbsp; 3-5-2023
+
+Done with Functions (args , kwargs & docstrings) </br>
