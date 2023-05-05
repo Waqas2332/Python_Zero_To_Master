@@ -21,3 +21,8 @@ Done with Conditionals & Loops </br>
 ## Day # 05 &nbsp; &nbsp; 3-5-2023
 
 Done with Functions (args , kwargs & docstrings) </br>
+
+## Day # 06 &nbsp; &nbsp; 5-5-2023
+
+Done with Random Module </br>
+Build Rock Paper and Scissors Game + Password Generator
