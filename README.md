@@ -26,3 +26,7 @@ Done with Functions (args , kwargs & docstrings) </br>
 
 Done with Random Module </br>
 Build Rock Paper and Scissors Game + Password Generator
+
+## Day # 07 &nbsp; &nbsp; 6-5-2023
+
+Build Guess The Word Game
