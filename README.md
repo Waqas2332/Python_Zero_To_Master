@@ -30,3 +30,7 @@ Build Rock Paper and Scissors Game + Password Generator
 ## Day # 07 &nbsp; &nbsp; 6-5-2023
 
 Build Guess The Word Game
+
+## Day # 08 &nbsp; &nbsp; 7-5-2023
+
+Build a Program that converts simple message into cypher text and then decrypt it again to normal text
