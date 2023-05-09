@@ -34,3 +34,7 @@ Build Guess The Word Game
 ## Day # 08 &nbsp; &nbsp; 7-5-2023
 
 Build a Program that converts simple message into cypher text and then decrypt it again to normal text
+
+## Day # 09 &nbsp; &nbsp; 9-5-2023
+
+Build a Simple Calculator
