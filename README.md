@@ -38,3 +38,7 @@ Build a Program that converts simple message into cypher text and then decrypt i
 ## Day # 09 &nbsp; &nbsp; 9-5-2023
 
 Build a Simple Calculator
+
+## Day # 10 &nbsp; &nbsp; 10-5-2023
+
+Build a Blackjack project
