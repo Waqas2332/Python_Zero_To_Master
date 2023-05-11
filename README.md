@@ -42,3 +42,7 @@ Build a Simple Calculator
 ## Day # 10 &nbsp; &nbsp; 10-5-2023
 
 Build a Blackjack project
+
+## Day # 11 &nbsp; &nbsp; 11-5-2023
+
+Done With Python Beginner Level
