@@ -46,3 +46,7 @@ Build a Blackjack project
 ## Day # 11 &nbsp; &nbsp; 11-5-2023
 
 Done With Python Beginner Level
+
+## Day # 12 &nbsp; &nbsp; 12-5-2023
+
+Learnt About Pip And Python Virtual Enviroments
