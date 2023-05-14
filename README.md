@@ -50,3 +50,7 @@ Done With Python Beginner Level
 ## Day # 12 &nbsp; &nbsp; 12-5-2023
 
 Learnt About Pip And Python Virtual Enviroments
+
+## Day # 13 &nbsp; &nbsp; 14-5-2023
+
+Learnt About Scoping and Slicing of Lists & Strings
