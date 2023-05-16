@@ -54,3 +54,7 @@ Learnt About Pip And Python Virtual Enviroments
 ## Day # 13 &nbsp; &nbsp; 14-5-2023
 
 Learnt About Scoping and Slicing of Lists & Strings
+
+## Day # 14 &nbsp; &nbsp; 16-5-2023
+
+Learn about Comprehensions , sorting
