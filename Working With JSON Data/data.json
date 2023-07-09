@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Waqas Munir",
+      "age": 20,
+      "email": "wmunir232@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "Waqas",
+      "age": 21,
+      "email": "wmunir@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
